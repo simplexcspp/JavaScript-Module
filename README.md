@@ -1,5 +1,5 @@
 ## JavaScript-Module
 
-### [javascript模块化简介](https://github.com/simplexcspp/JavaScript-Module/issues/1)
+### [1、javascript模块化简介](https://github.com/simplexcspp/JavaScript-Module/issues/1)
 
-### [ES6模块]()
+### [2、ES6模块化]()
